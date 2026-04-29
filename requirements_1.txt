@@ -1,0 +1,7 @@
+flask==3.0.3
+requests==2.31.0
+beautifulsoup4==4.12.3
+lxml==5.2.1
+gunicorn==22.0.0
+google-auth==2.29.0
+google-api-python-client==2.128.0
